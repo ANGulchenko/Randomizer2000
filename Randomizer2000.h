@@ -1,3 +1,7 @@
+// Author: A.N.Gulchenko
+// License: MIT
+// New versions: https://github.com/ANGulchenko/Randomizer2000
+
 #ifndef RANDOMIZER2000_H
 #define RANDOMIZER2000_H
 
